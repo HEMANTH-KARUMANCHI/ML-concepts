@@ -6,8 +6,13 @@ https://github.com/rasbt/python-machine-learning-book
 # Transformers
 https://github.com/DARKANGEL689/transformers
 
-    #Positional Encoding (article)
+    > Attention Mechanism (article)
+    https://erdem.pl/2021/05/introduction-to-attention-mechanism
+
+    > Positional Encoding (article)
     https://erdem.pl/2021/05/understanding-positional-encoding-in-transformers
+
+
 
 # Building LLM
 https://github.com/prakash-p-3121/introduction-to-building-llms/tree/main
