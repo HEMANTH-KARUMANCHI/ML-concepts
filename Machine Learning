@@ -1,0 +1,36 @@
+## Machine Learning
+
+# Supervised learning:
+    1. Linear Regression
+    2. Logistic Regression
+    3. Decision Trees
+    4. SVM (SVC -> Classification, SVR -> Regression)
+
+# Unsupervised Learning:
+    1. K-Means
+    2. PCA (Principal Component Analysis)
+    3. Hierarchical Clustering
+
+# Ensemble Models:
+    1. Random Forest
+    2. XGBoost
+    3. LightGBM
+
+
+# Exploratory Data Analysis(EDA):
+    1. Data Cleaning & Preprocessing
+    2. Handling Missing Values & Outliers
+    3. Feature Engineering & Transformation
+    4. Univariant, Bivariant & Multivariant Analysis
+
+
+
+
+
+### Statistics:
+    Descriptive Statistics(Mean, Median, Mode, Variance)
+    Inferential Statistics(Hypothesis testing, p-value, confidence intervals)
+    Correlation, Covariance, Outlier Detection
+    Probability Distribution(Normal, binomial, Poisson)
+    Anova, Chi-square, A/B Testing
+
